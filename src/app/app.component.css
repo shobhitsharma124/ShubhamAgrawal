@@ -1,0 +1,20 @@
+img {
+    display: block;
+  }
+  button{
+      font-size: 20px;
+      border-radius: 3px;
+      padding: .2em;
+      border: 2px solid darkgrey;
+      margin-left: .3em;
+      outline: none !important;
+      width: 250px;
+      background-color: #1183ee;
+      color: rgb(8, 2, 2);
+  }
+ 
+  .logo{
+      background-color: #134f9c;
+      padding: 10px;
+      color: rgb(0, 0, 0);
+  }

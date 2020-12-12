@@ -1,0 +1,102 @@
+{
+  "allfriends": [
+    {
+      "firstname": "Shubham",
+      "lastname": "Agrawal",
+      "age": 21,
+      "phonenumber": "9865859325",
+      "email": "test@test.com",
+      "streetaddress": "test",
+      "city": "test",
+      "state": "test",
+      "country": "India",
+      "pincode": "560058",
+      "trainerpreference": "Male",
+      "physiotherapist": "Yes",
+      "packages": "2400",
+      "inr": "2400",
+      "date": "2020-08-20",
+      "id": 1
+    },
+    {
+      "firstname": "Radhika",
+      "lastname": "Seth",
+      "packages": "2400",
+      "physiotherapist": "Yes",
+      "trainerpreference": "Female",
+      "age": 25,
+      "email": "test@test.com",
+      "phonenumber": "0998877665",
+      "pincode": "560058",
+      "country": "India",
+      "state": "test",
+      "city": "test",
+      "streetaddress": "test",
+      "inr": "2400",
+      "date": "2020-08-20",
+      "id": 2
+    },
+    {
+      "firstname": "dsdasd",
+      "lastname": "huuvuvuy",
+      "packages": "500",
+      "physiotherapist": "No",
+      "trainerpreference": "Male",
+      "age": 56,
+      "email": "dhshduh@gmail.com",
+      "phonenumber": "9856412358",
+      "pincode": "456987",
+      "country": "kjhkjhkh",
+      "state": "hiohj",
+      "city": "hoihuh",
+      "streetaddress": "hsauodauoshi",
+      "inr": "2020-02-02",
+      "date": "500",
+      "id": 3
+    },
+    {
+      "firstname": "Sasha",
+      "lastname": "Dsouza",
+      "packages": "2400",
+      "physiotherapist": "Yes",
+      "trainerpreference": "Female",
+      "age": 30,
+      "email": "dsouza@gmail.com",
+      "phonenumber": "6958365985",
+      "pincode": "400253",
+      "country": "india",
+      "state": "maharashtra",
+      "city": "mumbai",
+      "streetaddress": "lincoln street",
+      "inr": "2021-11-09",
+      "date": "2400",
+      "id": 4
+    }
+  ],
+  "contacts": [
+    {
+      "firstname": "Pooja",
+      "lastname": "Vaidya",
+      "phonenumber": "9988776655",
+      "email": "test@test.com",
+      "message": "5",
+      "id": 1
+    },
+    {
+      "firstname": "Prachi",
+      "lastname": "Vaidya",
+      "phonenumber": "9988776655",
+      "email": "test@test.com",
+      "message": "12",
+      "id": 2
+    },
+    {
+      "firstname": "Poojan",
+      "lastname": "Vaidya",
+      "phonenumber": "9988776653",
+      "email": "test@test.com",
+      "message": "tftsfdtsf",
+      "id": 3
+    }
+  ]
+}

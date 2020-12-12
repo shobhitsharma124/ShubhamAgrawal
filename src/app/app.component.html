@@ -1,0 +1,33 @@
+<div class="logo" >
+  <div style="float: left; padding-right: 30px;">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrun2dr6dBomeOy0S1pZwFXB1PIMKPPJ7NSg&usqp=CAU"
+   class="rounded-circle" alt="Cinque Terre" width="170" height="115">
+   </div>
+   <div  style="height:115px; padding:10px; width:auto; float: centre; ">
+  <h1 style="text-align: center;margin-right: 300px;">Fitness Tracker</h1>
+  </div>
+  
+  </div >
+  <br>
+  <div class="row">
+  <div class="mx-auto" >
+    <button (click)="landingpage()">Home</button>
+    <button (click)="placeAppointment()">Place Appointment</button>
+    <button (click)="viewAppointment()">View Appointment</button>
+    <button>Search</button>
+    <button (click)="contactUspage()">Contact Us</button>
+  </div>
+  </div>
+  <hr>
+  <div id="mySidenav" class="sidenav">
+    <button (click)="landingpage()">Home</button><br/><br/>
+    <button (click)="placeAppointment()">Place Appointment</button><br/><br/>
+    <button (click)="viewAppointment()">View Appointment</button><br/><br/>
+    <button>Search</button><br/><br/>
+    <button (click)="contactUspage()">Contact Us</button><br/><br/>
+  </div>
+  
+  <router-outlet></router-outlet>
+  
+  
+
